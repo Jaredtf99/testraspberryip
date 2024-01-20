@@ -10,7 +10,7 @@ http://raspberrypi.local:6878/ace/getstream?id=512aeadf50d91603d15b32f1e40816653
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" tvg-id="M+ Vamos HD",#Vamos 1080
 http://raspberrypi.local:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" tvg-id="M+ Vamos HD",#Vamos 720
-http://raspberrypi.local:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+http://192.168.1.146:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" tvg-id="M+ LaLiga TV UHD",M. LaLiga UHD
 http://raspberrypi.local:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" tvg-id="M+ LaLiga TV HD",M. LaLiga 1080 MultiAudio
