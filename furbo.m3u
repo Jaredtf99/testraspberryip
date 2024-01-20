@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" tvg-id="GOL PLAY",GOL TV 1080
 http://raspberrypi.local:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png" tvg-id="Movistar Plus+ HD",Movistar Plus 1080
-http://raspberrypi.local:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+http://192.168.1.146:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" tvg-id="LaLiga TV BAR",LaLiga TV Bar España HD
 http://raspberrypi.local:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" tvg-id="LaLiga TV BAR",LaLiga TV Bar España HD (2)
 http://raspberrypi.local:6878/ace/getstream?id=512aeadf50d91603d15b32f1e408166536ec4ac9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" tvg-id="M+ Vamos HD",#Vamos 1080
-http://raspberrypi.local:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+http://192.168.1.146:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" tvg-id="M+ Vamos HD",#Vamos 720
 http://192.168.1.146:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" tvg-id="M+ LaLiga TV UHD",M. LaLiga UHD
