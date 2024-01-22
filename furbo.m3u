@@ -23,9 +23,9 @@ http://raspijared.duckdns.org:6878/ace/getstream?id=f031f5728b32f6089dda28edebe9
 http://raspijared.duckdns.org:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" tvg-id="M+ LaLiga TV 2 HD",M. LaLiga 2 720
 http://raspijared.duckdns.org:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
-#EXTINF:-1,M. LaLiga 3 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203%20HD.png" tvg-id="M+ LaLiga TV 3 HD",M. LaLiga 3 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1,M. LaLiga 4 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" tvg-id="M+ LaLiga TV 4",M. LaLiga 4 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 #EXTINF:-1,M. LaLiga 5 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
@@ -47,15 +47,15 @@ http://raspijared.duckdns.org:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2
 http://raspijared.duckdns.org:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1,DAZN LaLiga 5 1080 MultiAudio
 http://raspijared.duckdns.org:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1,LaLiga HyperMotion 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD",LaLiga HyperMotion 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1,LaLiga HyperMotion 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" tvg-id="LaLiga TV Hypermotion HD",LaLiga HyperMotion 720
 http://raspijared.duckdns.org:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1,LaLiga HyperMotion 2 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" tvg-id="LaLiga TV Hypermotion 2",LaLiga HyperMotion 2 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1,LaLiga HyperMotion 2 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" tvg-id="LaLiga TV Hypermotion 2",LaLiga HyperMotion 2 720
 http://raspijared.duckdns.org:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1,LaLiga HyperMotion 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" tvg-id="LaLiga TV Hypermotion 3",LaLiga HyperMotion 3
 http://raspijared.duckdns.org:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
 #EXTINF:-1,LaLiga HyperMotion 4
 http://raspijared.duckdns.org:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
@@ -71,15 +71,15 @@ http://raspijared.duckdns.org:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778
 http://raspijared.duckdns.org:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" tvg-id="DAZN 1 HD",DAZN 1 720
 http://raspijared.duckdns.org:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1,DAZN 2 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" tvg-id="DAZN 2 HD",DAZN 2 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1,DAZN 2 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" tvg-id="DAZN 2 HD",DAZN 2 720
 http://raspijared.duckdns.org:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1,DAZN 3 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" tvg-id="DAZN 3 HD",DAZN 3 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1,DAZN 4 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" tvg-id="DAZN 4 HD",DAZN 4 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1,DAZN F1 Multicamara
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" tvg-id="DAZN F1 HD",DAZN F1 Multicamara
 http://raspijared.duckdns.org:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%204K.png" tvg-id="DAZN F1 4K",DAZN F1 UHD
 http://raspijared.duckdns.org:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
@@ -89,27 +89,27 @@ http://raspijared.duckdns.org:6878/ace/getstream?id=5789ca155323664edd293b848606
 http://raspijared.duckdns.org:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" tvg-id="DAZN F1 HD",DAZN F1 720
 http://raspijared.duckdns.org:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1,Dazn liga F1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png" tvg-id="DAZN LaLiga Femenina 1",Dazn Liga Femenina 1
 http://raspijared.duckdns.org:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1,Dazn liga F2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%202.png" tvg-id="DAZN LaLiga Femenina 2",Dazn Liga Femenina 2
 http://raspijared.duckdns.org:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1,Dazn liga F3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%203.png" tvg-id="DAZN LaLiga Femenina 3",Dazn Liga Femenina 3
 http://raspijared.duckdns.org:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1,Dazn liga F4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%204.png" tvg-id="DAZN LaLiga Femenina 4",Dazn Liga Femenina 4
 http://raspijared.duckdns.org:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1,DAZN F1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" tvg-id="DAZN F1 HD",DAZN F1 HD
 http://raspijared.duckdns.org:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1,DAZN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" tvg-id="DAZN 1 HD",DAZN 1
 http://raspijared.duckdns.org:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1,DAZN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" tvg-id="DAZN 2 HD",DAZN 2
 http://raspijared.duckdns.org:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1,DAZN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" tvg-id="DAZN 3 HD",DAZN 3
 http://raspijared.duckdns.org:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1,DAZN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" tvg-id="DAZN 4 HD",DAZN 4
 http://raspijared.duckdns.org:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1,Movistar laliga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" tvg-id="M+ LaLiga TV HD",Movistar laliga
 http://raspijared.duckdns.org:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1,Movistar laliga (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" tvg-id="M+ LaLiga TV HD",Movistar laliga (2)
 http://raspijared.duckdns.org:6878/ace/getstream?id=1c761eb280cdf43748275e58942914620b0551d4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" tvg-id="M+ Liga de Campeones HD",M.L. Campeones 1080 MultiAudio
 http://raspijared.duckdns.org:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
@@ -123,31 +123,31 @@ http://raspijared.duckdns.org:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1
 http://raspijared.duckdns.org:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HD.png" tvg-id="M+ Liga de Campeones 2 HD",M.L. Campeones 2 720
 http://raspijared.duckdns.org:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1,M.L. Campeones 3 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" tvg-id="M+ Liga de Campeones 3 HD",M.L. Campeones 3 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1,M.L. Campeones 3 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" tvg-id="M+ Liga de Campeones 3 HD",M.L. Campeones 3 720
 http://raspijared.duckdns.org:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1,M.L. Campeones 4 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4",M.L. Campeones 4 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1,M.L. Campeones 5 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5",M.L. Campeones 5 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1,M.L. Campeones 6 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="M+ Liga de Campeones 6",M.L. Campeones 6 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1,M.L. Campeones 7 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" tvg-id="M+ Liga de Campeones 7",M.L. Campeones 7 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1,M.L. Campeones 8 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" tvg-id="M+ Liga de Campeones 8",M.L. Campeones 8 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1,M.L. Campeones 9 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" tvg-id="M+ Liga de Campeones 9",M.L. Campeones 9 SD
 http://raspijared.duckdns.org:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
-#EXTINF:-1,M.L. Campeones 10 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" tvg-id="M+ Liga de Campeones 10",M.L. Campeones 10 SD
 http://raspijared.duckdns.org:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
-#EXTINF:-1,M.L. Campeones 12 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" tvg-id="M+ Liga de Campeones 12",M.L. Campeones 12 SD
 http://raspijared.duckdns.org:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1,M.L. Campeones 13 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" tvg-id="M+ Liga de Campeones 13",M.L. Campeones 13 SD
 http://raspijared.duckdns.org:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
-#EXTINF:-1,M. Liga de Campeones
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" tvg-id="M+ Liga de Campeones HD",M. Liga de Campeones
 http://raspijared.duckdns.org:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1,#Ellas 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos%20HD.png" tvg-id="M+ Ellas Vamos HD",#Ellas 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png" tvg-id="M+ Deportes HD",M. Deportes 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
@@ -169,9 +169,9 @@ http://raspijared.duckdns.org:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f
 http://raspijared.duckdns.org:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1,M. Golf2 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
-#EXTINF:-1,EuroSport 1 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20HD.png" tvg-id="Eurosport 1 HD",EuroSport 1 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1,EuroSport 2 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2",EuroSport 2 1080
 http://raspijared.duckdns.org:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1,Tennis Channel
 http://raspijared.duckdns.org:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
